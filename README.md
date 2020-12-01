@@ -1,1 +1,1 @@
-# Data-Science-Micro-Projects
+# ML-Micro-Projects
